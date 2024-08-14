@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Mi Encriptador</title>
+    <!-- Importación de Google Fonts para mejorar la tipografía -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body> 
+    <header>
+        <!-- Opcional: Puedes añadir un logo o un título aquí -->
+    </header>
+    <main>                      
+        <section>
+            <div class="container">
+                <h1 class="titulo">ENCRIPTADOR DE TEXTO</h1>         
+                <h3 class="instrucciones">INSTRUCCIONES:</h3>
+                <ul class="lista">
+                    <li>No insertar letras mayúsculas.</li>
+                    <li>No insertar caracteres especiales.</li>
+                </ul>
+                <br>                            
+                <textarea id="container" class="caja" placeholder="Ingrese el texto aquí:"></textarea>
+                <div class="button-group">
+                    <button  id = "cifrar" class="boton">Cifrar</button>
+                    <button  id = "descifrar"class="boton">Descifrar</button>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <textarea class="caja1" placeholder="Texto cifrado/descifrado aquí..."></textarea>
+                <button id = "copiar" class="boton">Copiar</button>
+            </div>
+        </section>
+    </main>
+
+    <footer class="piePagina">
+        <p class="Copyright">&copy; Copyright 2024-Encriptador de texto -Desarrollado por Andrea de la Mora</p>
+        <a href="https://www.linkedin.com/in/andrea-torres-900356248/" rel="">
+            <img src="./imagenes/linkedin.svg" alt="Logo LinkedIn" class="linkedin">
+        </a>
+            <a href="https://github.com/Anndy26" rel="">
+            <img src="./imagenes/github.svg" alt="Logo Github" class="git">
+        </a>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>
