@@ -13,7 +13,14 @@ Encriptador de texto. Challenge Alura.
   <li>🔓 <b>Descifrado de Texto:</b> Revierte el proceso de cifrado para recuperar el texto original.</li>
   <li>📋 <b>Copiar al Portapapeles:</b> Permite copiar el texto cifrado o descifrado directamente al portapapeles para un uso rápido.</li>
 </ul>
-
+<h2>Reglas de Encriptación</h2>
+<ul>
+  <li>La letra "e" se convierte en "enter".</li>
+  <li>La letra "i" se convierte en "imes".</li>
+  <li>La letra "a" se convierte en "ai".</li>
+  <li>La letra "o" se convierte en "ober".</li>
+  <li>La letra "u" se convierte en "ufat".</li>
+</ul>
 <h2>Tecnologías Utilizadas</h2>
 <ul>
   <li><b>HTML5:</b>Estructura del contenido de la aplicación.</li>
