@@ -2,7 +2,8 @@
 Encriptador de texto. Challenge Alura.
 
 <h1 align="center"> Challenge encriptador de texto Alura </h1>
-![](https://github.com/Anndy26/encriptador_challenge/blob/main/encriptador.png)
+
+![encriptador](https://github.com/user-attachments/assets/060d2b8e-99f9-4347-a8e5-65e67eb280a9)
 
 <h2>Descripción</h2>
 <p>Este proyecto es un encriptador de texto desarrollado como parte de un reto del programa de enseñanza de Alura. La aplicación permite cifrar y descifrar textos utilizando un sistema simple de sustitución de caracteres. Es una herramienta ideal para aprender los conceptos básicos de manipulación de strings en JavaScript, así como para aplicar buenas prácticas de desarrollo web con HTML y CSS.</p>
