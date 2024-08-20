@@ -35,3 +35,5 @@ Encriptador de texto. Challenge Alura.
   <li>Utiliza el botón "Copiar" para copiar el resultado al portapapeles.</li>
 </ol>
 
+<h2>Contacto</h2>
+<p>Desarrollado por Andrea de la Mora https://www.linkedin.com/in/andrea-torres-900356248/?trk=public-profile-join-page</p>
