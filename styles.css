@@ -116,7 +116,7 @@ section {
     .linkedin, .git {
         margin-left: 10px;
     }
-}
+
 
 /* Media Queries para responsividad */
 @media (max-width: 768px) {
